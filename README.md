@@ -14,3 +14,6 @@ https://disk.yandex.ru/d/1S0dbUgoSMSldw
 - nms - подавление рамок(чем меньше - тем меньше рамок)
 - drawing - включает отрисовку рамок;
 - checkColor - подрубает отрисовку из скрипта Рамика;
+
+Ссылка на инструкцию для обучения сети: 
+https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
